@@ -7,6 +7,42 @@
 -  Print screen the appropriate sql and output per item
 
 
-  ## Step 1
+## Step 1
 
-  
+<img src="images/step 1.png" alt="Alt Text" width="600">
+
+## Step 1 Structure
+
+<img src="images/step 1 structure.png" alt="Alt Text" width="600"> 
+
+## Step 2
+
+<img src="images/step 2.png" alt="Alt Text" width="600">
+
+## Step 2 Structure
+
+<img src="images/step 2 structure.png" alt="Alt Text" width="600"> 
+
+## Step 3
+
+<img src="images/step 3.png" alt="Alt Text" width="600">
+
+## Step 3 Structure
+
+<img src="images/step 3 structure.png" alt="Alt Text" width="600">
+
+## Step 4
+
+<img src="images/step 4.png" alt="Alt Text" width="600">
+
+## Step 4 Structure
+
+<img src="images/step 4 structure.png" alt="Alt Text" width="600">
+
+## Step 5
+
+<img src="images/step 5.png" alt="Alt Text" width="600">
+
+## Step 5 Structure
+
+<img src="images/step 5 structure.png" alt="Alt Text" width="600">
